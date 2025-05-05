@@ -1,0 +1,20 @@
+{
+  "welcome": "Mening sahifamga xush kelibsiz",
+  "navigation": {
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "contact": "Aloqa"
+  },
+  "common": {
+    "loading": "Yuklanmoqda...",
+    "error": "Xatolik yuz berdi",
+    "success": "Muvaffaqiyatli",
+    "submit": "Yuborish",
+    "cancel": "Bekor qilish"
+  },
+  "home": {
+    "title": "Bosh sahifa",
+    "description": "Next.js tomonidan yaratilgan",
+    "welcome_message": "Mening bosh sahifamga xush kelibsiz"
+  }
+}

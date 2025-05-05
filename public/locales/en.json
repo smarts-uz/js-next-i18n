@@ -1,0 +1,20 @@
+{
+  "welcome": "Welcome to my page",
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "submit": "Submit",
+    "cancel": "Cancel"
+  },
+  "home": {
+    "title": "Home",
+    "description": "Created with Next.js",
+    "welcome_message": "Welcome to my homepage"
+  }
+}
